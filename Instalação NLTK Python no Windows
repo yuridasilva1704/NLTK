@@ -1,0 +1,9 @@
+Abrir o prompt de comando do windows (cmd)
+Acessar o diretório de instalação do Python
+> cd \Users\yurid\AppData\Local\Programs\Python\Python39\Scripts
+Dentro do diretório haverá v[arios arquivos
+Haverá um arquivo chamado "easy_install.exe" ele é responsável por instalar pacotes ou bibliotecas onlines
+Executar os seguintes comandos:
+
+    easy _install.exe nltk             #
+    easy_install.exe nump              #Biblioteca que trabalha com computação científica
