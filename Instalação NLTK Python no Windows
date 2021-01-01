@@ -17,3 +17,4 @@ Feito isso, criar um novo arquivo em Python, e executar as seguintes linhas:
         
 Após isso, rodar o programa. 
 Irá abrir uma nova janela, com várias pacotes. Instalar todos eles.
+Após instalar todos os pacotes correspondentes, deixar a 2° linha  "nltk.download()" como comentário e prosseguir com o script.
